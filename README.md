@@ -1,7 +1,7 @@
 # CyberHunt
 
 ## 📌 Overview  
-This project analyzes the tactics, techniques, and procedures (TTPs) of Cyber Avengers and Voltzite, two prominent cyber threat groups. The research focuses on their attack methods, motivations, and effective mitigation strategies to enhance cybersecurity defenses.
+This project analyzes the tactics, techniques, and procedures (TTPs) of Cyber Avengers and Voltzite, two prominent cyber threat groups. The research focuses on their attack methods, motivations, and effective mitigation strategies to enhance cybersecurity defenses. The project article can be found at: https://medium.com/@baborovanat/decoding-threats-how-cyber-avengers-and-voltzite-exploit-vulnerabilities-and-how-to-stop-them-6a0914466578
 
 ## 🔍 Key Findings  
 
